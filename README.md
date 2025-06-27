@@ -1,4 +1,4 @@
-# 🧠 AlgoContest - Corrections Officielles
+# 🧠 AlgoBattle - Corrections Officielles
 
 Bienvenue sur le dépôt officiel des **corrections des challenges** de notre contest algorithmique organisé par notre club.  
 Vous trouverez ici les **solutions détaillées, avec explications et implémentations multilangages** (Python, C/C++, etc.) pour chaque épreuve.
@@ -9,12 +9,12 @@ Vous trouverez ici les **solutions détaillées, avec explications et implément
 
 ## 📚 Liste des challenges corrigés
 
-| # | Nom du Challenge | Lien vers la correction |
-|:-:|------------------|-------------------------|
-| 1 | 🥇 Telo Dimanjato | [Voir la correction](./Round1-l1/telo-dimanjato) |
-| 2 | ✏️ Perimeter of a triangle - Orthonormal Plane  | [Voir la correction](./Round1-l1/perimeter-orthonormal) |
-| 3 | 🧩 FamerimBus | [Voir la correction](./Round1-l1/famerimbus) |
-| … | … | … |
+|  #  | Nom du Challenge                               | Lien vers la correction                                 |
+| :-: | ---------------------------------------------- | ------------------------------------------------------- |
+|  1  | 🥇 Telo Dimanjato                              | [Voir la correction](./Round1-l1/telo-dimanjato)        |
+|  2  | 📐 Perimeter of a triangle - Orthonormal Plane | [Voir la correction](./Round1-l1/perimeter-orthonormal) |
+|  3  | 🚌 FamerimBus                                  | [Voir la correction](./Round1-l1/famerimbus)            |
+|  4  | 🧠 ANN-Perceptron                              | [Voir la correction](./Round1-l1/ann-perceptron)        |
 
 ---
 
@@ -25,7 +25,6 @@ Vous trouverez ici les **solutions détaillées, avec explications et implément
 - Pseudo-code 📘
 
 ---
-
 
 ## 🏫 À propos du club
 
