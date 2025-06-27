@@ -41,7 +41,7 @@ finfonc ;
 
 ```python
 def prix(n) : return ((n//3) * 500)+((n%3) * 200)
-if __name__ == ‘__main__’ : print(prix(int(input()))) #Programme principale
+if __name__ == '__main__' : print(prix(int(input()))) #Programme principale
 ```
 
 ---
@@ -120,5 +120,10 @@ Un seul entier – le **prix total** en **Ariary (Ar)**.
 - 3 mofogasy → 500 Ar
 - 2 restants → 2 × 200 = 400 Ar  
   ➡️ **Total = 900 Ar**
+
+
+---
+
+📂 [⬅ Retour à la liste des challenges](../)
 
 ---
