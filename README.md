@@ -12,7 +12,7 @@ Vous trouverez ici les **solutions détaillées, avec explications et implément
 | # | Nom du Challenge | Lien vers la correction |
 |:-:|------------------|-------------------------|
 | 1 | 🥇 Telo Dimanjato | [Voir la correction](./Round1-l1/telo-dimanjato) |
-| 2 | ✏️ .. | [Voir la correction](./) |
+| 2 | ✏️ Perimeter of a triangle - Orthonormal Plane  | [Voir la correction](./Round1-l1/perimeter-orthonormal) |
 | 3 | 🧩 ..| [Voir la correction](./) |
 | … | … | … |
 

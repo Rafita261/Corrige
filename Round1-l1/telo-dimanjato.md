@@ -14,6 +14,7 @@ On vous demande de calculer le **prix total en Ariary (Ar)** que Rakahihatra doi
 ## 💡 Idée de Résolution
 
 Il faut :
+
 - Diviser `n` par 3 :
   - Le **quotient** donne le nombre de lots à 500 Ar.
   - Le **reste** donne le nombre de mofogasy restants à 200 Ar.
@@ -22,7 +23,7 @@ Il faut :
 
 ## 🔧 Implémentation
 
-### 📜 Pseudo-Code (inchangé)
+### 📜 Pseudo-Code
 
 ```text
 entier fonction prix(d entier n)
@@ -54,8 +55,8 @@ if __name__ == ‘__main__’ : print(prix(int(input()))) #Programme principale
 #define prix(n)  ((n/3) * 500) + ((n%3) * 200) 
 int main(){
     int n ;
-    scanf(‘‘%d’’, &n) ;
-    printf(‘‘%d’’, prix(n)) ;
+    scanf("%d", &n) ;
+    printf("%d", prix(n)) ;
     return 0 ;
 }
 ```
@@ -71,11 +72,13 @@ Un seul entier – le **prix total** en **Ariary (Ar)**.
 ## 📘 Exemples
 
 ### 🧪 Sample Input 0
+
 ```
 3
 ```
 
 ### ✅ Sample Output 0
+
 ```
 500
 ```
@@ -85,11 +88,13 @@ Un seul entier – le **prix total** en **Ariary (Ar)**.
 ---
 
 ### 🧪 Sample Input 1
+
 ```
 2
 ```
 
 ### ✅ Sample Output 1
+
 ```
 400
 ```
@@ -99,18 +104,21 @@ Un seul entier – le **prix total** en **Ariary (Ar)**.
 ---
 
 ### 🧪 Sample Input 2
+
 ```
 5
 ```
 
 ### ✅ Sample Output 2
+
 ```
 900
 ```
 
 **Explication :**
+
 - 3 mofogasy → 500 Ar
 - 2 restants → 2 × 200 = 400 Ar  
-➡️ **Total = 900 Ar**
+  ➡️ **Total = 900 Ar**
 
 ---
