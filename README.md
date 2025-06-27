@@ -33,9 +33,4 @@ Notre objectif est de promouvoir la logique algorithmique, la programmation comp
 
 ---
 
-📬 **Contact** : [email@example.com](mailto:email@example.com)  
-🌐 **Site web** : [github.io](https://rafita261.github.io/Chriskely/)
-
----
-
-© 2025 AlgoMad Contest Club. Tous droits réservés.
+© 2025 EDC Contest Club. Tous droits réservés.

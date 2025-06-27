@@ -48,8 +48,6 @@ if __name__ == '__main__' : print(prix(int(input()))) #Programme principale
 
 ### 💻 C / C++
 
-⚠️ Attention : remplacez les guillemets typographiques (‘’ ou “”) par des guillemets simples droits (") dans un vrai éditeur C.
-
 ```c
 #include <stdio.h>
 #define prix(n)  ((n/3) * 500) + ((n%3) * 200) 
