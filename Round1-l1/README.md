@@ -4,9 +4,9 @@
 
 |  #  | Nom du Challenge                               | Lien vers la correction                                 |
 | :-: | ---------------------------------------------- | ------------------------------------------------------- |
-|  1  | 🥇 Telo Dimanjato                              | [Voir la correction](./Round1-l1/telo-dimanjato)        |
-|  2  | 📐 Perimeter of a triangle - Orthonormal Plane | [Voir la correction](./Round1-l1/perimeter-orthonormal) |
-|  3  | 🚌 FamerimBus                                  | [Voir la correction](./Round1-l1/famerimbus)            |
-|  4  | 🧠 ANN-Perceptron                              | [Voir la correction](./Round1-l1/ann-perceptron)        |
+|  1  | 🥇 Telo Dimanjato                              | [Voir la correction](./telo-dimanjato)        |
+|  2  | 📐 Perimeter of a triangle - Orthonormal Plane | [Voir la correction](./perimeter-orthonormal) |
+|  3  | 🚌 FamerimBus                                  | [Voir la correction](./famerimbus)            |
+|  4  | 🧠 ANN-Perceptron                              | [Voir la correction](./ann-perceptron)        |
 
 ---
